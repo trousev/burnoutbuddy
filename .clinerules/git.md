@@ -19,6 +19,7 @@
      - `request_copilot_review` for automated reviews
      - `submit_pending_pull_request_review` for PR feedback
    - PRs must target `main` branch
+   - When asked to create PR (or to create pull request), ensure you're on feature branch, commit and push first
 
 5. **Branch Protection**
    - Direct commits to `main` blocked
